@@ -2,7 +2,7 @@ git rm "git init"
 git commit -m "Remove mistakenly added 'git init' file"
 git push
 sh
-git remote add origin https://github.com/dmdcreativestudio/all-in-one-dashboard
+git remote add origin https://api.render.com/deploy/srv-d37dlper433s73elsptg?key=FN48hQ1eHek
 git add .
 git commit -m "Initial commit"
 git push -u origin main
